@@ -1,4 +1,15 @@
-# MSBA_Kaggle_Individual_WORK
+# SAMPOORNAA GHOSH
+
+## Introduction 
+This is a repository that I have created to track my individual work in the Kaggle Project conducted together with my teammates for MSBA Capstone 1.
+
+## Table of contents
+- [Business Problem and Project Objective](#Business-Problem-and-Project-Objective)
+- [Solution to the Business Problem](#Solution-to-the-Business-Problem)
+- [My contribution to the Project](#My-contribution-to-the-Project)
+- [Difficulties faced](#Difficulties-faced)
+- [Recommended Solution](#Recommended-Solution)
+- [Learnings from this project](#Learnings-from-this-project)
 
 ## Business Problem and Project Objective :
 Home Credit Group is a non-banking financial institution that provides loans to people with little or no credit history. These borrowers are often considered high-risk, so Home Credit needs to be able to accurately predict which borrowers are most likely to default on their loans. The Home Credit Default Risk project aims to create a model that can accurately predict whether or not a borrower will default on their loan. The project dataset contains over 100 million rows of data, including information on loan applications, demographic data, and historical credit behavior. Home Credit Company can use the winning model to improve their loan approval process and reduce default rates. The Home Credit Default Risk project can significantly impact millions of people's lives. By accurately predicting which borrowers are most likely to default, Home Credit can be more selective in their loan approvals, which will help to reduce the number of defaults. This will ultimately benefit both Home Credit and its borrowers, as it will allow Home Credit to continue providing loans to people who need them while also reducing the risk of financial loss.
